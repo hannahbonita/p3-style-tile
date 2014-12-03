@@ -1,0 +1,94 @@
+/* Set Your Own Margin & Padding */
+h1 {
+	font-size: 72px;
+	color: #A2C27A;
+	font-family: 'Poiret One', cursive;
+	text-align: left;
+	margin-top: auto;
+	margin-bottom: 10px;
+}
+
+h2 {
+	color: #F12E1A;
+	font-family: 'Poiret One', cursive;
+}
+ 
+h3 {
+	color: #445233;
+	font-family: 'Poiret One', cursive;
+}
+
+p {
+	color: #445233;
+	font-family: 'Poiret One', cursive;
+}
+
+/* Layout for Style Tile*/
+section {
+	font-family: 'Indie Flower', cursive;
+	margin: 20px 0;
+}
+
+body {
+	background: ;
+}
+
+
+
+.color-1 {
+	border: 1px solid #000;
+	background-color: #F12E1A;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.color-2 {
+	border: 1px solid #000;
+	background-color: #A2C27A;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+.color-3 {
+	border: 1px solid #000;
+	background-color: #FFB5A7;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-1 {
+	background: url("../img/backgroundpattern1.jpeg");
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-2 {
+	background: url("../img/backgroundpattern2.png");
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+.pattern-3 {
+	
+	background: url("../img/backgroundpattern3.png");
+	border: 1px solid #000;
+	float: left;
+	margin: 0 10px;
+	height: 50px;
+	width: 50px;
+}
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
